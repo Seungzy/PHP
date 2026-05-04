@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    color: #1f4da0;
+}
+
+.converter {
+    margin: 20px auto;
+    padding: 20px;
+    width: 60%;
+    border: 1px solid #ccc;
+}
+
+input, select, button {
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    background-color: #1f4da0;
+    color: white;
+    border: none;
+}
+
+.result {
+    margin-top: 15px;
+    font-size: 18px;
+    color: green;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+td, th {
+    border: 1px solid #666;
+    padding: 8px;
+}
+
+.header {
+    background-color: yellow;
+    font-weight: bold;
+}
