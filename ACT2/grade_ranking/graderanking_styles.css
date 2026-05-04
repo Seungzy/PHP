@@ -1,0 +1,51 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.container {
+    width: 700px;
+}
+
+.form {
+    margin-bottom: 30px;
+}
+
+input, button {
+    padding: 8px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.name-box {
+    border: 2px solid #9acd32;
+    padding: 10px;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+.output {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    border: 2px solid #9acd32;
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 22px;
+}
+
+.picture {
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
