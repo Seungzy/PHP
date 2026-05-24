@@ -1,8 +1,15 @@
-PHP Folders
+# PHP Activities Repository
 
-ACT 1 - [M1-FORMATIVE]
-ACT 2 - [M2-FORMATIVE]
-TECHNICAL_1 - [S1-TECHNICAL]
-TFA3 - [M3-FORMATIVE]
-TFA4 - [M4-FORMATIVE]
-SA2 - [S2-TECHNICAL]
+## Folder Structure
+
+
+### Formative Activities
+- ACT 1 - [M1-FORMATIVE]
+- ACT 2 - [M2-FORMATIVE]
+- TFA3 - [M3-FORMATIVE]
+- TFA4 - [M4-FORMATIVE]
+
+
+### Technical Summative Assessments
+- TECHNICAL_1 - [S1-TECHNICAL]
+- SA2 - [S2-TECHNICAL]
